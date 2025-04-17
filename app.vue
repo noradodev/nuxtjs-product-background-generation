@@ -30,7 +30,6 @@ const clearImages = () => {
   imageUrl.value = null
   selectedFile.value = null
 }
-console.log(import.meta.env.VITE_BACKEND_API)
 
 
 const submitForm = async () => {
